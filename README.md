@@ -45,6 +45,6 @@ This case study focuses primarily on:
 
 Paper Dragon acknowledges that geopolitics and global dynamics is an ever-changing subject. Future developments may render the thesis partially or completely invalid. It is the objective of this analysis to assess why a conventional invasion of Taiwan by China, under current circumstances, is structurally infeasible.
 
-This analysis assumes rational, continuity-oriented behavior by the CCP leadership and excludes scenarios driven by internal collapse, miscalculations, or uncontrolled escalations.
+This analysis assumes rational, continuity-oriented behavior by the CCP leadership and excludes scenarios driven by internal collapse, miscalculations, or uncontrolled escalations. This analysis also assumes Taiwan not as a territorial dispute, but as a systematic constraint on global conflict.
 
 
